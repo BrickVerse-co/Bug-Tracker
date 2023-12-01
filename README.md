@@ -6,8 +6,4 @@ Before submitting a bug report, please ensure it is not listed on the "do-not-re
 To report bugs, create a new issue by following this link [here](do-not-report.md). Make sure to adhere to the template that is automatically filled when generating a new issue.
 
 # Important Note for Security Concerns:
-If the bug you've identified poses a vulnerability or is significant enough to be exploited, it is mandatory to mark the issue as "**confidential**" using the checkbox provided before submission.
-
-We prioritize user security and commit to resolving security issues within one business day. Do not share details of vulnerabilities or major bugs with anyone else, as this could result in the suspension of your account.
-
-Your contributions to enhancing the BrickVerse experience are invaluable, and we appreciate your proactive involvement in making our platform secure and user-friendly. Happy bug hunting!
+If the bug you've identified poses a vulnerability or is significant enough to be exploited, it is mandatory to keep it as **confidential** and send it to critical@brickverse.gg
