@@ -10,7 +10,7 @@ Bugs stemming from the use of desktop mode on mobile browser apps will not be co
 ## Issue Consolidation
 Please refrain from combining multiple bugs into a single issue unless they are inherently related to one another.
 
-# Previously Resolved Bugs
+## Previously Resolved Bugs
 Bugs that have already been patched or addressed, especially those relevant to the old version of the platform, will not be reopened.
 
   We encourage users to prioritize reporting bugs that fall outside these excluded categories, ensuring that our efforts are focused on improving the overall functionality and user experience of the platform. Thank you for your cooperation in making the BrickVerse community even better!
