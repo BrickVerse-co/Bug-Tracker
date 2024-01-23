@@ -6,4 +6,4 @@ Before submitting a bug report, please ensure it is not listed on the "do-not-re
 To report bugs, create a new issue by following this link [here](do-not-report.md). Make sure to adhere to the template that is automatically filled when generating a new issue.
 
 # Important Note for Security Concerns:
-If the bug you've identified poses a vulnerability or is significant enough to be exploited, it is mandatory to keep it as **confidential** and send it to critical@brickverse.gg
+If the bug you've identified poses a vulnerability or is significant enough to be exploited, it is mandatory to keep it as **confidential** and send it to jake@brickverse.gg
